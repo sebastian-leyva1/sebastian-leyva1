@@ -11,10 +11,10 @@ Soy un Ingeniero de Confiabilidad del Sitio (SRE)/DevSecOps apasionado con más 
 ## Certificaciones
 
 ### AWS Academy Educator
-[![AWS Academy Educator](https://images.credly.com/size/110x110/images/12345678-90ab-cdef-1234-567890abcdef/AWS_Academy_Educator.png)](https://www.credly.com/badges/92e257ad-44d4-40a4-a8d3-04113a2bd356/public_url)
+[![AWS Academy Educator](https://images.credly.com/size/110x110/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png)](https://www.credly.com/badges/92e257ad-44d4-40a4-a8d3-04113a2bd356/public_url)
 
 ### AWS Academy Graduate: AWS Academy Cloud Foundations
-[![AWS Academy Graduate](https://images.credly.com/size/110x110/images/12345678-90ab-cdef-1234-567890abcdef/AWS_Academy_Graduate.png)](https://www.credly.com/badges/4626a170-31ac-446b-9943-ae36d5ec070e/public_url)
+[![AWS Academy Graduate](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](https://www.credly.com/badges/4626a170-31ac-446b-9943-ae36d5ec070e/public_url)
 
 
 ## Habilidades Técnicas
