@@ -62,6 +62,5 @@ Soy un **Ingeniero de Confiabilidad del Sitio (SRE)/DevSecOps** apasionado con m
 ## 📞 Contacto
 - **Email**: sleyva0208@gmail.com
 - **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/sleyva18)
-- **Twitter**: [@tu_twitter]
 
 ¡No dudes en contactarme para colaborar o discutir sobre DevSecOps y SRE!
