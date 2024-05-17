@@ -9,27 +9,26 @@ Soy un **Ingeniero de Confiabilidad del Sitio (SRE)/DevSecOps** apasionado con m
 - **Automatización**: CI/CD con Jenkins, Azure Pipelines, Bamboo, y más.
 
 ## 🏅 Certificaciones
-| Certificación | Logo | Enlace |
-| --- | --- | --- |
-| **AWS Academy Educator** | ![AWS Academy Educator](https://images.credly.com/size/110x110/images/4d7a2a90-1f1a-4b6f-a3db-4f9c255a36e4/image.png) | [Ver Insignia](https://www.credly.com/badges/4d7a2a90-1f1a-4b6f-a3db-4f9c255a36e4) |
-| **AWS Academy Graduate: AWS Academy Cloud Foundations** | ![AWS Academy Graduate](https://images.credly.com/size/110x110/images/2419b380-14a6-42f7-9504-8c8d2f3f2a11/image.png) | [Ver Insignia](https://www.credly.com/badges/2419b380-14a6-42f7-9504-8c8d2f3f2a11) |
-| **Architecting with Google Kubernetes Engine: Production** | ![Architecting with Google Kubernetes Engine: Production](https://avatars.githubusercontent.com/u/2810941?s=200&v=4) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Programa Especializado – Architecting with Google Kubernetes Engine** | ![Programa Especializado – Architecting with Google Kubernetes Engine](https://avatars.githubusercontent.com/u/2810941?s=200&v=4) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Architecting with Google Kubernetes Engine: Workloads** | ![Architecting with Google Kubernetes Engine: Workloads](https://avatars.githubusercontent.com/u/2810941?s=200&v=4) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Programa Especializado – Architecting with Google Compute Engine** | ![Programa Especializado – Architecting with Google Compute Engine](https://avatars.githubusercontent.com/u/2810941?s=200&v=4) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Reliable Google Cloud Infrastructure: Design and Process** | ![Reliable Google Cloud Infrastructure: Design and Process](https://avatars.githubusercontent.com/u/2810941?s=200&v=4) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Elastic Google Cloud Infrastructure: Scaling and Automation** | ![Elastic Google Cloud Infrastructure: Scaling and Automation](https://avatars.githubusercontent.com/u/2810941?s=200&v=4) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Essential Google Infrastructure: Core Services** | ![Essential Google Infrastructure: Core Services](https://avatars.githubusercontent.com/u/2810941?s=200&v=4) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Essential Google Infrastructure: Foundation** | ![Essential Google Infrastructure: Foundation](https://avatars.githubusercontent.com/u/2810941?s=200&v=4) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Google Cloud Fundamentals: Core Infrastructure** | ![Google Cloud Fundamentals: Core Infrastructure](https://avatars.githubusercontent.com/u/2810941?s=200&v=4) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Redhat Openshift I: Container & Kubernetes Abril 2021** | ![Redhat Openshift I: Container & Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Redhat-logo.svg/1200px-Redhat-logo.svg.png) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **AZ-400T00-A – Designing and Implementing Microsoft DevOps solutions** | ![AZ-400T00-A](https://img.icons8.com/color/452/azure-1.png) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **AZ-103T00 – Microsoft Azure Administrator** | ![AZ-103T00](https://img.icons8.com/color/452/azure-1.png) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **AZ-900T01 – Microsoft Azure Fundamentals** | ![AZ-900T01](https://img.icons8.com/color/452/azure-1.png) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Lifelong Learning** | ![Lifelong Learning](https://static.vecteezy.com/system/resources/previews/000/206/300/original/open-book-vector-icon.jpg) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
-| **Scrum Foundation Professional Certificate** | ![Scrum Foundation Professional Certificate](https://www.scrum.org/themes/custom/scrumorg/assets/images/scrumorg-logo.png) | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
 
-
+| Certificación | Enlace |
+| --- | --- |
+| **AWS Academy Educator** | [Ver Insignia](https://www.credly.com/badges/4d7a2a90-1f1a-4b6f-a3db-4f9c255a36e4) |
+| **AWS Academy Graduate: AWS Academy Cloud Foundations** | [Ver Insignia](https://www.credly.com/badges/2419b380-14a6-42f7-9504-8c8d2f3f2a11) |
+| **Architecting with Google Kubernetes Engine: Production** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Programa Especializado – Architecting with Google Kubernetes Engine** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Architecting with Google Kubernetes Engine: Workloads** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Programa Especializado – Architecting with Google Compute Engine** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Reliable Google Cloud Infrastructure: Design and Process** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Elastic Google Cloud Infrastructure: Scaling and Automation** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Essential Google Infrastructure: Core Services** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Essential Google Infrastructure: Foundation** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Google Cloud Fundamentals: Core Infrastructure** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Redhat Openshift I: Container & Kubernetes Abril 2021** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **AZ-400T00-A – Designing and Implementing Microsoft DevOps solutions** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **AZ-103T00 – Microsoft Azure Administrator** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **AZ-900T01 – Microsoft Azure Fundamentals** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Lifelong Learning** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
+| **Scrum Foundation Professional Certificate** | [Ver Insignia](https://www.credly.com/badges/54af5b7f-b3ff-41ad-a5a4-01c0a6d9d5ef) |
 
 ## 🔧 Habilidades Técnicas
 - **CI/CD**: Jenkins, Azure DevOps, Bamboo, GitHub Actions, App Center
@@ -43,6 +42,7 @@ Soy un **Ingeniero de Confiabilidad del Sitio (SRE)/DevSecOps** apasionado con m
 - **Metodologías**: Scrum, Agile
 
 ## 🛡️ Habilidades
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -62,5 +62,6 @@ Soy un **Ingeniero de Confiabilidad del Sitio (SRE)/DevSecOps** apasionado con m
 ## 📞 Contacto
 - **Email**: sleyva0208@gmail.com
 - **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/sleyva18)
+- **Twitter**: [@tu_twitter]
 
 ¡No dudes en contactarme para colaborar o discutir sobre DevSecOps y SRE!
