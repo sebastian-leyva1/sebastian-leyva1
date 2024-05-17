@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sebastian Randoll Leyva Chumpitaz 👋
+# ¡Hola! 👋
 
 ## 🎯 Acerca de mí
 Soy un **Ingeniero de Confiabilidad del Sitio (SRE)/DevSecOps** apasionado con más de 4 años de experiencia especializándome en la integración de prácticas de seguridad dentro del ciclo de vida del desarrollo de software y la gestión de infraestructuras de alta disponibilidad. Con un fuerte enfoque en la automatización, he liderado la implementación de soluciones CI/CD que han mejorado significativamente los tiempos de despliegue y la eficiencia operativa en ambientes cloud y on-premise. Mi enfoque proactivo hacia la gestión de incidentes y mi habilidad para trabajar en colaboración con equipos de desarrollo y operaciones han sido clave para mitigar riesgos y aumentar la resiliencia de los sistemas.
