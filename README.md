@@ -8,19 +8,6 @@ Soy un Ingeniero de Confiabilidad del Sitio (SRE)/DevSecOps apasionado con más 
 - **SRE**: Gestión de infraestructuras de alta disponibilidad y automatización.
 - **Automatización**: CI/CD con Jenkins, Azure Pipelines, Bamboo, y más.
 
-## Proyectos Destacados
-### Automatización de Mitigación de Vulnerabilidades en Banco Chile
-Automatización de la mitigación de vulnerabilidades alertadas por Prisma Cloud y creación de recursos en Cloud mediante IaC (Terraform).
-
-- **Repositorio**: [Enlace al repositorio]
-- **Descripción**: Implementación de soluciones CI/CD en Jenkins y Bamboo, automatización de parcheo de instancias compute en OCI usando Ansible.
-
-### Implementación de API Gateway en Financiera OH
-Implementación de Api Gateway Sensedia para ambientes cloud (GCP) y on-premise (VMware), y pruebas de carga sobre nginx reverse proxy.
-
-- **Repositorio**: [Enlace al repositorio]
-- **Descripción**: Implementación y automatización sobre orquestadores de contenedores Kubernetes (GKE) y Openshift (OCP 4.11).
-
 ## Educación
 - **Técnico en Análisis de Sistemas** - IEST Valle Grande, Diciembre del 2018
 
@@ -38,10 +25,13 @@ Implementación de Api Gateway Sensedia para ambientes cloud (GCP) y on-premise 
 ## Certificaciones
 
 ### AWS Academy Educator
-[![AWS Academy Educator](https://api.accredible.com/v1/frontend/credential_website_embed_image/92e257ad-44d4-40a4-a8d3-04113a2bd356)](https://www.credly.com/badges/92e257ad-44d4-40a4-a8d3-04113a2bd356)
+[![AWS Academy Educator](![image](https://github.com/sebastian-leyva1/sebastian-leyva1/assets/170060733/89fe2caa-7d6c-42b7-8f57-5b9afec09aed))](https://www.credly.com/badges/92e257ad-44d4-40a4-a8d3-04113a2bd356/public_url)
 
-## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sebastian-leyva1&show_icons=true&theme=radical)
+## Habilidades
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ## Contacto
 - **Email**: sleyva0208@gmail.com
